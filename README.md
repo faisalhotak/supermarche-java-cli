@@ -1,76 +1,79 @@
 # Java CLI project for school
 
+<div align="center">
+
 ## UML Diagram
-![uml diagram](report/UML%20Diagram.png)
+<img src="report/UML%20Diagram.png">
 
 ## What are the program's features ?
-![program's features](report/1.png)
+<img src="report/1.png" width="300">
 
 ### Add a product
-![add a product](report/2.png)
+<img src="report/2.png" width="300">
 
 ### Update a product
-![update a product](report/3.png)
+<img src="report/3.png" width="300">
 
 ### Remove a product
-![remove a product](report/4.png)
+<img src="report/4.png" width="300">
 
 ### Add an employee
-![add an employee](report/5.png)
+<img src="report/5.png" width="300">
 
 ### Update an employee
-![update an employee](report/6.png)
+<img src="report/6.png" width="300">
 
 ### Remove an employee
-![remove an employee](report/7.png)
+<img src="report/7.png" width="300">
 
 ### Add a customer
-![add a customer](report/8.png)
+<img src="report/8.png" width="300">
 
 ### Update a customer
-![update a customer](report/9.png)
+<img src="report/9.png" width="300">
 
 ### Remove a customer
-![remove a customer](report/10.png)
+<img src="report/10.png" width="300">
 
 ### Display products list
-![display products list](report/11.png)
+<img src="report/11.png" width="300">
 
 ### Display employees list
-![display employees list](report/12.png)
+<img src="report/12.png" width="300">
 
 ### Display customers list
-![display customers list](report/13.png)
+<img src="report/13.png" width="300">
 
 ### Sales menu
-![sales menu](report/14.png)
+<img src="report/14.png" width="300">
 
 ### Proceed with a sale
-![proceed with a sale](report/15.png)
+<img src="report/15.png" width="300">
 
 ### Remove products from ticket
-![remove products from ticket](report/16.png)
+<img src="report/16.png" width="300">
 
 ### View the ticket
-![view ticket](report/17.png)
+<img src="report/17.png" width="300">
 
 ### Pay the ticket
-![pay ticket](report/18.png)
+<img src="report/18.png" width="300">
 
 ### Cancel actual sale
-![cancel sale](report/19.png)
+<img src="report/19.png" width="300">
 
 ### Display tickets list
-![tickets list](report/20.png)
+<img src="report/20.png" width="300">
 
 ### View a client's tickets list
-![client tickets list](report/21.png)
+<img src="report/21.png" width="300">
 
 ### View product sales report
-![product sales report](report/22.png)
+<img src="report/22.png" width="300">
 
 ### Quit/Stop the program
-![stop the program](report/23.png)
+<img src="report/23.png" width="300">
 
 ### File created when quitting the program, containing all the data. Restarting the program will read this file if it exists and load the data inside it.
-![data file](report/24.png)
+<img src="report/24.png" width="300">
+</div>
